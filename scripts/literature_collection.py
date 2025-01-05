@@ -98,3 +98,6 @@ if __name__ == "__main__":
 
 # Requirements:
 # pip install scholarly pandas bibtexparser
+# pip3 install scholarly
+# pip3 install pandas
+# pip3 install bibtexparser
